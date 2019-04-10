@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "768955788206",
+    "firebase_url": "https://draduation.firebaseio.com",
+    "project_id": "draduation",
+    "storage_bucket": "draduation.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:768955788206:android:12c95997324c5bd4",
+        "android_client_info": {
+          "package_name": "com.example.hazem.draduation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "768955788206-1lphma25o6ec8upl4r13o53bi8v9nc55.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXKa7E50pzJOxFdfjmYYtnv9ORFH4ivjM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Book Reader</string>
+    <string name="choose_time">Time</string>
+    <string name="choose_sport">Sport</string>
+    <string name="choose_life">Life</string>
+    <string name="choose_love">Love</string>
+    <string name="title_frist_act">Choose Book Category</string>
+    <string name="AppbarMain">All CategorY </string>
+    <string name="btntxt">Go to books</string>
+    <string name="publisher">Publisher :  </string>
+    <string name="description">Description :  </string>
+    <string name="btnfav">Add to favourite</string>
+    <string name="year">Year : </string>
+    <string name="rate">Rate : </string>
+    <string name="favourite">Favourite</string>
+    <string name="adid">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="add_widget">Add widget</string>
+    <string name="appwidget_text">EXAMPLE</string>
+</resources>
